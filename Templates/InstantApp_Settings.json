@@ -1,0 +1,18 @@
+{
+  "template": "InstantApps-Sidebar",
+  "title": "Committee Name – Topic",
+  "theme": "Indigo",
+  "language": {
+    "translation": true,
+    "locales": ["en", "es"]
+  },
+  "legend": true,
+  "widgets": {
+    "disable": ["measure", "screenshot", "share"]
+  },
+  "bookmarks": [
+    { "name": "Sahel", "extent": null },
+    { "name": "Indo-Pacific", "extent": null }
+  ]
+}
+

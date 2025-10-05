@@ -1,6 +1,7 @@
 # Atlas MUN Workflows
 
 Atlas is a standardized GIS + StoryMaps workflow for Model United Nations conferences.  
+
 It was developed by **[Brandon Estevez](https://www.linkedin.com/in/brandonestevez)** and **[Bernard Roach](https://www.linkedin.com/in/BERNIE_LINKEDIN)** for the CAPS Model United Nations Conference (CAPSMUN) and is designed to be **scalable**, **replicable**, and adaptable to other conferences.
 
 This repository documents the *core* Atlas system: naming conventions, map-building workflows, and StoryMaps integration strategies.  

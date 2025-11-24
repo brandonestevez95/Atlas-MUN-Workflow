@@ -285,9 +285,9 @@ SC: Updated pop-ups and replaced emissions dataset
 
 ---
 
-## 14. Behind-the-Scenes StoryMap (Upcoming)
+## 14. Behind-the-Scenes StoryMap 
 
-A public StoryMap documenting Atlas’s creation, CAPSMUN’s GIS process, and delegate impact is in development.
+A public StoryMap documenting Atlas’s creation, CAPSMUN’s GIS process, and delegate impact is provided below.
 
 https://storymaps.arcgis.com/stories/e6b6538e81ad47e2b6d2d7d9f24b19cf
 

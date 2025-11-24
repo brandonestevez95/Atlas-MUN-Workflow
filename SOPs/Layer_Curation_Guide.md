@@ -6,6 +6,7 @@ Select 5–10 layers per topic that are:
 - Clear in purpose
 - Trustworthy in source (World Bank, UN, NOAA)
 - Complementary (not redundant)
+- Metadata or additional documentation easy to find/understand for conference staff and delegates
 
 ## Symbology
 
@@ -17,4 +18,9 @@ Select 5–10 layers per topic that are:
 
 ## Basemap Selection
 
-- Prefer Light
+Depends heavily on layer symbology and factors relevant to committee map. Recommended base maps are provided below.
+
+- Oceans
+- Human Geography
+- Light Canvas
+- Dark Canvas

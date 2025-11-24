@@ -328,11 +328,7 @@ Additional Resources
 Built with:
 	•	Esri ArcGIS Online — https://www.esri.com
 	•	ArcGIS Living Atlas of the World — https://livingatlas.arcgis.com
-	•	National 4-H Geospatial Leadership Team — LINK_PLACEHOLDER
+	•	National 4-H Geospatial Leadership Team — https://www.national4hgeospatialteam.us
 
 © 2025 Brandon Estevez & Bernard Roach.
 Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
-
----
-
-Would you like me to add GitHub-optimized Markdown styling (badges, table of contents links, section anchors, etc.) for a final version that looks publication-ready inside your repo viewer?
